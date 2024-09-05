@@ -7,8 +7,8 @@
 
 
 
-<h3 align="center">🌍 Connect with me</h3>
-<p align="center">
+<h3 align="left">🌍 Connect with me</h3>
+<p align="left">
   <a href="https://mericcaylak.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
