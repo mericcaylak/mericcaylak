@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mericcaylak&label=Profile%20views&color=0e75b6&style=flat" alt="mericcaylak" /> </p>
 
-- ![image](https://github.com/user-attachments/assets/c53bebf3-f9a0-4917-88ed-7d53d8500a30)
+- <img align="left" alt="Web icon" width="10" src="![image](https://github.com/user-attachments/assets/d9a0d059-72f6-4e3d-be27-8e3b785d36f2)">
  All of my projects are available at [https://mericcaylak.com/](https://mericcaylak.com/)
 
 - 📫 How to reach me **merichcaylak@gmail.com**
