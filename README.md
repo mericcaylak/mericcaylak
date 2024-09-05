@@ -4,9 +4,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mericcaylak&label=Profile%20views&color=0e75b6&style=flat" alt="mericcaylak" /> </p>
 
-### Here is my Website: [https://mericcaylak.com](https://mericcaylak.com/)
-### Here's is my Linkedin account: [https://www.linkedin.com/in/meriç-çaylak](https://www.linkedin.com/in/meriç-çaylak-853a52292/)
-### Here's is my Kaggle account: [https://www.kaggle.com/mericcaylak](https://www.kaggle.com/mericcaylak)
-### Here's is my Upwork account: [https://www.upwork.com/freelancers/mericcaylak](https://www.upwork.com/freelancers/~0182655ce421635533)
-### Contact with me: **merichcaylak@gmail.com**
-
+### Here is my website: *[https://mericcaylak.com]*(https://mericcaylak.com/)
