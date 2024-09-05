@@ -3,4 +3,6 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mericcaylak&label=Profile%20views&color=0e75b6&style=flat" alt="mericcaylak" /> </p>
 
-### Here is my website: [https://mericcaylak.com](https://mericcaylak.com/)
+<p align="center">
+  <a href="https://mericcaylak.com" target="_blank">Here is my website: https://mericcaylak.com</a>
+</p>
