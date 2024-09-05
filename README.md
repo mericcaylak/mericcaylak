@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Meriç Çaylak</h1>
 <h3 align="center">Data Scientist and Python Developer</h3>
-<br></br>
+
 <h3 align="center">🌍 Connect with me</h3>
 <p align="center">
   <a href="https://mericcaylak.com" target="_blank">
