@@ -8,6 +8,8 @@
 
 ### How to reach me: **merichcaylak@gmail.com**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mericcaylak&" alt="website" /> ### Here's my website: [https://mericcaylak.com/](https://mericcaylak.com/) </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mericcaylak&" alt="mail" /> ### How to reach me: **merichcaylak@gmail.com** </p>
+<p align="left">
+<a href="https://linkedin.com/in/meriç çaylak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meriç çaylak" height="30" width="40" /></a>
+<a href="https://kaggle.com/mericcaylak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mericcaylak" height="30" width="40" /></a>
+<a href="https://instagram.com/mericcaylakk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mericcaylakk" height="30" width="40" /></a>
+</p>
