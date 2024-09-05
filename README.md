@@ -6,7 +6,7 @@
 
 ### Here is my website [https://mericcaylak.com/](https://mericcaylak.com/)
 
-- 📫 How to reach me **merichcaylak@gmail.com**
+### 📫 How to reach me **merichcaylak@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
