@@ -13,7 +13,7 @@
 <a href="https://instagram.com/mericcaylakk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mericcaylakk" height="30" width="40" /></a>  
 <a href="https://linkedin.com/in/meriç çaylak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meriç çaylak" height="30" width="40" /></a>
 <a href="https://kaggle.com/mericcaylak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mericcaylak" height="30" width="40" /></a>
-<a href="https://www.upwork.com/freelancers/~0182655ce421635533" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/80/704/png-transparent-upwork-hd-logo.png" alt="mericcaylak" height="30" width="40" /></a>
+<a href="https://www.upwork.com/freelancers/~0182655ce421635533" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/80/704/png-transparent-upwork-hd-logo.png" alt="mericcaylak" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
