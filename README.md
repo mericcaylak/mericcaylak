@@ -3,5 +3,5 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mericcaylak&label=Profile%20views&color=0e75b6&style=flat" alt="mericcaylak" /> </p>
 <p align="center">
-  <h2>Here is my website:</h2> <a href="https://mericcaylak.com" target="_blank">https://mericcaylak.com</a>
+  <span style="font-size=30px">Here is my website:</span> <a href="https://mericcaylak.com" target="_blank">https://mericcaylak.com</a>
 </p>
