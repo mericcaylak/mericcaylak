@@ -7,3 +7,7 @@
 ### Here is my website: [https://mericcaylak.com/](https://mericcaylak.com/)
 
 ### How to reach me: **merichcaylak@gmail.com**
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mericcaylak&" alt="website" /> ### Here's my website: [https://mericcaylak.com/](https://mericcaylak.com/) </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mericcaylak&" alt="mail" /> ### How to reach me: **merichcaylak@gmail.com** </p>
