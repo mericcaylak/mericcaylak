@@ -6,16 +6,16 @@
 </p>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=mericcaylak&label=Profile%20views&color=0e75b6&style=flat" alt="mericcaylak" /> 
+  <img src="https://komarev.com/ghpvc/?username=mericcaylak&label=Profile%20views&color=0e75b6&style=flat-square" alt="mericcaylak" /> 
 </p>
 
 <h3 align="center">🌍 Connect with me</h3>
 <p align="center">
   <a href="https://mericcaylak.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="mericcaylak.com"/>
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
   <a href="https://www.linkedin.com/in/meriç-çaylak-853a52292/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.kaggle.com/mericcaylak" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
@@ -28,12 +28,12 @@
   </a>
 </p>
 
-<h3 align="center">💻 My Skills</h3>
+<h3 align="center">💻 Tech Stack</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Data_Science-FF6F00?style=for-the-badge&logo=jupyter&logoColor=white" alt="Data Science" />
-  <img src="https://img.shields.io/badge/Machine_Learning-007396?style=for-the-badge&logo=keras&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning" />
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-339933?style=for-the-badge&logo=pytorch&logoColor=white" alt="AI" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </p>
