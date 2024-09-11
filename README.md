@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meriç Çaylak</h1>
-<h3 align="center">Data Scientist | Python Developer | Freelancer</h3>
+<h3 align="center">Data Scientist | Python Developer | Freelancer.</h3>
 
 <br>
 
